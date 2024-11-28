@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+    <title> ... Your name d6a1af ... </title>
+
+</head>
+<body>
+<em>Emphasized text</em>
+<div style="color:#0000FF">
+<h1><strong> <span style="color:blue">colour blue</span> AMAZON COMPANY</strong></h1>
+</div>
+<img src="https://i.pcmag.com/imagery/articles/05qp7E8Z6G2lM79Y6Epl0tl-11.fit_lim.size_960x.jpg" alt="mobile"><br>
+<strong>&lt; class="feature" &gt;FEATURES</strong><br>
+ <a href="https://www.google.com">Visit google.com!</a><br>
+ <a href="https://www.gmail.com">Visit gmail.com!</a><br>
+ <a href="https://www.yahoo.com">Visit yahoo.com!</a>
+<ul>
+
+
+<li><h3> Metallic Body</h3></li>
+<li><h3>Black Colour</h3></li>
+<li><h3> Touch Screen</h3></li>
+
+</ul>
+</body>
+</html>
