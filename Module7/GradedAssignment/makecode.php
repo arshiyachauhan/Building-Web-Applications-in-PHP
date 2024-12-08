@@ -30,6 +30,7 @@ if ( $md5 !== false ) {
     print "<p>MD5 value: ".htmlentities($md5)."</p>";
 }
 ?>
+    
 <p>Please enter a four-leter key for encoding.</p>
 <form>
 <input type="text" name="code" value="<?= htmlentities($code) ?>"/>
