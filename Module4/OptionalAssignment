@@ -1,0 +1,9 @@
+Open Xampp on localhost
+Navigate to the phpMyAdmin application select the "SQL" tab and type
+SELECT 'Month   date, year'   (eg:SELECT 'January 3, 2017')
+press "GO" and take a screenshot
+
+Navigate to the PHPinfo application
+search for  display_errors
+make sure that display_errors = On
+take a screenshot
